@@ -35,15 +35,25 @@
 ### Style Guide
 #### Adding a New Item
 Follow the following format:
-`// Item Name
+```
+// Item Name
 //notes:your_name (PvE/PvP/PvP&PvE/whatever) "Your specific comments go here." Reccomended MW: Masterwork
-Item Rolls Go Here, One per line`
+Item Rolls Go Here, One per line
+```
 #### Adding Rolls to a new item
 Add a space after the rolls that already exist, then:
-`//notes:your_name (PvE/PvP/PvP&PvE/whatever) "Your specific comments go here." Reccomended MW: Masterwork
-Item Rolls Go Here, One per line`
+```
+// Original Item Name
+//notes:original_poster's_name (PvE/PvP/PvP&PvE/whatever) "Their specific comments go here." Reccomended MW: Masterwork
+Original Item Rolls Go Here, One per line
+
+//notes:your_name (PvE/PvP/PvP&PvE/whatever) "Your specific comments go here." Reccomended MW: Masterwork
+Your Item Rolls Go Here, One per line
+```
 #### Adding a Note to an Item
-`RollYouWantToAddANoteTo#notes:your_name (PvE/PvP/PvP&PvE/whatever) "Your specific comments go here." Reccomended MW: Masterwork`
+```
+RollYouWantToAddANoteTo#notes:your_name (PvE/PvP/PvP&PvE/whatever) "Your specific comments go here." Reccomended MW: Masterwork
+```
 Specific notes will override batch notes, so your note will appear.
 
 ## Websites
