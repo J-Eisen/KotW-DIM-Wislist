@@ -57,6 +57,6 @@ RollYouWantToAddANoteTo#notes:your_name (PvE/PvP/PvP&PvE/whatever) "Your specifi
 Specific notes will override batch notes, so your note will appear.
 
 ## Websites
-- [D2 Gunsmith](https://d2gunsmith.com/)
-- [Destinysets](https://data.destinysets.com/)
-- [48klocs](https://48klocs.github.io/wish-list-magic-wand/fingerwave.html)
+- [D2 Gunsmith](https://d2gunsmith.com/) Good for single rolls/seeing how different rolls affect stats
+- [Destinysets](https://data.destinysets.com/) Good for finding the hashes of weapons, perks, etc.
+- [48klocs](https://48klocs.github.io/wish-list-magic-wand/fingerwave.html) Good for creating batch rolls with info found on Destinysets
