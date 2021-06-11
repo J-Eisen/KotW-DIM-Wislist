@@ -1,8 +1,18 @@
 title:Knights of the White Tree DIM Wislist
 description:Maintained by PSN user DeathByKttn
 
-//Internal Organization Notes
+// Deafening Whisper
+//notes:DeathByKttn (PvE) "Holy crap this GL slaps. Abilities are always up, adds are always down, and it does solid damage. Plus, it's ridiculously easy to get the number of kills you need (ONE) to proc AA." Reccomended MW: Handling
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738,518224747
 
-//Sucsession
-notes:deathbykttn (PVE)
-dimwishlist:item=2990047042&perks=1523832109,1546637391,150943607
+// Succession
+//notes:DeathByKttn (PvE) "Solid GM sniper. Does have a bit of drift and some extra stability would help. One or two taps most Majors." Reccomended MW: NOT RELOAD
+dimwishlist:item=2990047042&perks=4090651448,2420895100,1523832109,1546637391
+dimwishlist:item=2990047042&perks=1392496348,2420895100,1523832109,1546637391
+dimwishlist:item=2990047042&perks=1482024992,2420895100,1523832109,1546637391
+dimwishlist:item=2990047042&perks=4090651448,106909392,1523832109,1546637391
+dimwishlist:item=2990047042&perks=1392496348,106909392,1523832109,1546637391
+dimwishlist:item=2990047042&perks=1482024992,106909392,1523832109,1546637391
+dimwishlist:item=2990047042&perks=4090651448,3142289711,1523832109,1546637391
+dimwishlist:item=2990047042&perks=1392496348,3142289711,1523832109,1546637391
+dimwishlist:item=2990047042&perks=1482024992,3142289711,1523832109,1546637391
