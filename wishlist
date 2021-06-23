@@ -7,15 +7,19 @@ description:Maintained by PSN user DeathByKttn
 // #R Raid Weapons
 // #W Crucible/Vangard Weapons
 // #I Iron Banner Weapons
+// #E Exotic Weapons
 
 // Searchables Key (In addidition to above)
 // Weapon Types
 // Primary Weapons
-// #AR #SG #SM #SA #SR
+// #AR #HC #PR #SM #SA #SC
+// Assault Rifle | Hand Cannon | Pulse Rifle | Submachine Gun | Sidearm | Scout Rifle
 // Special Weapons
-// #SR #BL #FR #MG
+// #SR #BL #FR #SG
+// Sniper Rifle | Grenade Launcher (Breachloaded) | Fusion Rifle | Shotgun
 // Heavy Weapons
-// #GL #RT #SW #LR
+// #GL #RL #SW #LR #MG
+// Grenade Launcher | Rocket Launcher | Sword | Linear Fusion Rifle | Machine Gun
 
 // #S Seasonal Weapons
 // Deafening Whisper #S #BL
@@ -171,3 +175,10 @@ dimwishlist:item=681067419&perks=1482024992,106909392,588594999,3038247973,15094
 dimwishlist:item=681067419&perks=1840239774,106909392,588594999,3038247973,150943607
 dimwishlist:item=681067419&perks=1482024992,3142289711,588594999,3038247973,150943607
 dimwishlist:item=681067419&perks=1840239774,3142289711,588594999,3038247973,150943607
+
+// Exotic Weapons //
+// Dead Man's Tale #E #SC
+//notes:DeathByKttn
+dimwishlist:item=-3654674561&perks=839105230,4259401308
+dimwishlist:item=-3654674561&perks=3661387068,4259401308
+dimwishlist:item=-3654674561&perks=1467527085,4259401308
